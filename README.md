@@ -15,15 +15,15 @@ This repository contains a collection of basic Python programming problems organ
 #### 9. Strings
 #### 10. File Handling and exception handling
 
-DEBUGGING SKILL IMPROVEMENT
+DEBUGGING SKILL IMPROVEMENT -
+
 DATA STRUCTURES ONLY 
 
 #### 11. Object-Oriented Programming (OOP)
 #### 12. Inheritance and Polymorphism
 #### 13. Modules and Packages
-#### 14. Additional Concepts
+#### 14. Additional Concepts :
 - **Basic:**
-  - Error handling using try, except, finally blocks (exception handling)
   - Working with command-line arguments using sys.argv
   - Using list comprehensions and generator expressions for concise data processing
 - **Intermediate:**
