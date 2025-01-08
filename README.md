@@ -33,9 +33,5 @@ All ALGORITHMS
 building projects !!!@!!!!!@!!!!@!!!!!
 
 
-  - Unit testing with unittest or pytest for automated testing of Python code
- 
-PROJECT!
-
 ![image](https://github.com/shakeelrifathcse/Python-Basic-2-Advance-Excerise/assets/148626818/2c74bccf-8567-4e1b-8b60-ea979d46fc6d)
 
