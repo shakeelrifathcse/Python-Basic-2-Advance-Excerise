@@ -23,19 +23,16 @@ DATA STRUCTURES ONLY
 #### 12. Inheritance and Polymorphism
 #### 13. Modules and Packages
 #### 14. Additional Concepts :
-- **Basic:**
   - Working with command-line arguments using sys.argv
   - Using list comprehensions and generator expressions for concise data processing
-- **Intermediate:**
-  - Context managers (with statement) for resource management
-  - Decorators to modify or extend the behavior of functions or methods
-  - Generators and iterators for efficient memory usage and lazy evaluation
 
-ALGORITHMS
+    
+All ALGORITHMS
 
-- **Advanced:**
-  - Multi-threading and multiprocessing for concurrent execution of tasks
-  - Asynchronous programming using asyncio for non-blocking I/O operations
+
+building projects !!!@!!!!!@!!!!@!!!!!
+
+
   - Unit testing with unittest or pytest for automated testing of Python code
  
 PROJECT!
